@@ -18,7 +18,6 @@ export default class App extends React.Component {
           alignItems: 'center',
           justifyContent: 'center',
           paddingTop: Expo.Constants.statusBarHeight,
-          backgroundColor: '#ecf0f1',
         }}>
         <Text
           style={{
